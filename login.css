@@ -70,3 +70,13 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
+
+/* Password Reset Form Styles */
+#resetForm {
+  display: none;
+}
+
+#resetForm .form-field {
+  margin-bottom: 15px;
+}
+
